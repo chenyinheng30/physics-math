@@ -52,6 +52,7 @@ cos\phi&=\frac{\sqrt{(a+b)^2-(a-b)^2sin^2\theta}}{Y}cos\theta \\
 $$
 
 得到
+
 $$
 \frac{d\phi}{\sqrt{a^2cos^2\phi+b^2sin^2\phi}}=\frac{d\theta}{\sqrt{(\frac{a+b}{2})^2cos^2\theta+absin^2\theta}}
 $$
